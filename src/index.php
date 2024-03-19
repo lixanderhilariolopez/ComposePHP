@@ -6,7 +6,7 @@
     <title>Tarea Docker Compose</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: ´Times New Roman´, sans-serif;
         }
         .container {
             max-width: 800px;
